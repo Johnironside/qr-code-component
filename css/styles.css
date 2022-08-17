@@ -1,8 +1,10 @@
 body {align-items: center; 
-    background: #FCF8E8;
+    background: hsl(212, 45%, 89%);
+    display: flex;
+    min-height: 100vh;
     justify-content: center; 
     margin: 60px auto; 
-    width: 1440px;  }
+    width: 1440px;}
 img {max-width: 95%; border-radius: 10px;}
 .card {background-color: hsl(0, 0%, 100%); 
     border-radius: 15px;
@@ -12,12 +14,6 @@ img {max-width: 95%; border-radius: 10px;}
     padding-top: 15px; 
     padding-bottom: 47px;
     width: 270px;}
-.container {background: hsl(212, 45%, 89%);
-    box-shadow: -8px 15px 5px rgba(225, 225, 225, 0.5); 
-    width: 80%; 
-    display: flex; 
-    justify-content: space-between; 
-    margin: auto;}
 h3 {text-align: center; font-family: outfit, Arial; font-weight: 700;}
 p {text-align: center; font-size: 15px; font-family: outfit, Arial; font-weight: 400; color: rgba(128,128,128,0.9); }
 .qr-code {margin-left: 15px; margin-top: 5px;}
