@@ -47,7 +47,7 @@ I just started learning web design, and so far i've gotten a taste of how it wor
 ```
 
 ### Continued development
-I plan to expand my knowledge on the use of <div> in html and structuring divs with css.
+I plan to expand my knowledge on the use of div in html and structuring divs with css.
 
 ### Useful resources
 
